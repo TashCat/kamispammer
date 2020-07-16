@@ -14,7 +14,7 @@ KAMI Blue is as much a skid of KAMI as Ubuntu is a skid of Linux.
 The code written by some of the KAMI Blue developers is being stored in an arctic vault for future generations.
 > Press Y to open the GUI.
 The developer of KAMI Blue cannot code; as such, she skids modules from clients like Nodus, Nekoware, and Toolbox for Minecraft Pocket Edition.
-> KAMI Blue has baritone support.
+> KAMI Blue has integrated baritone support ;3
 Despite being called kami blue, the logo of the client is magenta.
 > kami who?
 KAMI Blue is written entirely in JavaScript.
