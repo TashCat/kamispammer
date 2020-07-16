@@ -25,3 +25,4 @@ blue
 > we live in a world of pain
 (pain means bread in french)
 > there is bread on the kami blue installer
+You can contribute to this promoter at: https://github.com/humboldt123/kamispammer/blob/master/spammer.txt
