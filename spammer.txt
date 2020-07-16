@@ -18,7 +18,7 @@ The developer of KAMI Blue cannot code; as such, she skids modules from clients 
 Despite being called kami blue, the logo of the client is magenta.
 > kami who?
 KAMI Blue is written entirely in JavaScript.
-> KAMI Blue is the only client to have autobackdoor (https://kamiblue.org/backdoored)
+> KAMI Blue is the only client to have autobackdoor Read Here: https://kamiblue.org/backdoored
 You can contribute to this promoter at: https://github.com/humboldt123/kamispammer/blob/master/spammer.txt
 > we live in a world of pain
 (pain means bread in french)
