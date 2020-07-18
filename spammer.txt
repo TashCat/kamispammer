@@ -22,3 +22,5 @@ KAMI Blue is written entirely in JavaScript.
 You can contribute to this promoter at: https://github.com/humboldt123/kamispammer/blob/master/spammer.txt
 > KAMI Blue woop woop
 KAMI Blue says trans rights!
+>KAMI Blue is compatible with other Forge mod based clients, for maximum customizability!
+>KAMI Blue won't kidnap you with an unmarked van and unidentified paramilitary dudes. No seriously, that's happening in Portland, Oregon right now. Stay safe.
